@@ -1,2 +1,1 @@
-# Android_app-zavrsni
- 
+Android aplikacija koja je izraðena za potrebe završnog rada.
